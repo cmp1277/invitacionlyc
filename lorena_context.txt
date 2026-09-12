@@ -1,0 +1,341 @@
+﻿
+  Muestra Azure - Invitali.html:354:} </style><meta name="viewport" 
+content="width=device-width, initial-scale=1.0, viewport-fit=cover"><link 
+rel="stylesheet" href="./Muestra Azure - Invitali_files/dialog.min.css"><link 
+rel="stylesheet" href="./Muestra Azure - 
+Invitali_files/swiper.min.css"><script src="./Muestra Azure - 
+Invitali_files/wp-emoji-release.min.js.descarga" defer=""></script><link 
+rel="prefetch" href="./Muestra Azure - 
+Invitali_files/QR-BNB-copia.webp"></head><body class="wp-singular 
+page-template page-template-elementor_canvas page page-id-41237 wp-custom-logo 
+wp-theme-astra unselectable eio-default ehf-template-astra 
+ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar 
+astra-4.8.7 ast-single-post ast-mobile-inherit-site-logo 
+ast-replace-site-logo-transparent ast-inherit-site-logo-transparent 
+ast-hfb-header elementor-default elementor-template-canvas elementor-kit-1316 
+elementor-page elementor-page-41237 e--ua-blink e--ua-chrome e--ua-webkit" 
+__processed_81c529e2-6f11-4e4f-aff9-1be7c8737ae2__="true" style="cursor: 
+default;" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1
+ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibG
+VkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFib
+GVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJk
+aXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24
+iOiIyLjEuMiIsInNjb3JlIjoyMDEwMjB9XQ==" data-elementor-device-mode="desktop"> 
+<e-page-transition preloader-type="image" preloader-image-url="" 
+class="e-page-transition--entered" 
+exclude="^https\:\/\/invitali\.com\/wp\-admin\/">
+  Muestra Azure - Invitali.html:355:			<img 
+class="e-page-transition--preloader" 
+src="https://invitali.com/azure/?n=2%20pases&amp;m=Luz%20y%20Cristian">
+  Muestra Azure - Invitali.html:356:		
+<style>e-page-transition{--preloader-fade-duration: .5s;--preloader-delay: 
+calc( var( --e-page-transition-animation-duration, 0s ) + var( 
+--e-preloader-delay, 0s ) );--page-transition-delay: var( 
+--preloader-fade-duration );position:fixed;inset:0;display:grid;place-items:cen
+ter;z-index:10000;background:#fff;animation-fill-mode:both;animation-duration:v
+ar(--e-page-transition-animation-duration)}e-page-transition[disabled]{display:
+none}e-page-transition e-preloader,e-page-transition 
+.e-page-transition--preloader{opacity:0}e-page-transition .e-page-transition--p
+reloader{position:absolute;font-size:var(--e-preloader-size);color:var(--e-prel
+oader-color);fill:var(--e-preloader-color);width:var(--e-preloader-width);max-w
+idth:var(--e-preloader-max-width);transform:rotate(var(--e-preloader-rotate, 0d
+eg));animation-name:var(--e-preloader-animation);animation-duration:var(--e-pre
+loader-animation-duration, 1000ms);animation-iteration-count:infinite;animation
+-timing-function:linear}e-page-transition svg.e-page-transition--preloader{widt
+h:var(--e-preloader-size)}.e-page-transition--entering{animation-name:var(--e-p
+age-transition-entrance-animation);animation-delay:var(--preloader-fade-duratio
+n, 0s)}.e-page-transition--entering e-preloader,.e-page-transition--entering 
+.e-page-transition--preloader{animation:var(--e-preloader-animation, none) 
+var(--e-preloader-animation-duration, 0s) linear 
+infinite,e-page-transition-fade-out var(--preloader-fade-duration) both;transit
+ion:none}.e-page-transition--exiting{animation-name:var(--e-page-transition-exi
+t-animation)}.e-page-transition--exiting 
+e-preloader,.e-page-transition--exiting 
+.e-page-transition--preloader{opacity:var(--e-preloader-opacity, 
+1);transition:var(--preloader-fade-duration) 
+all;transition-delay:var(--preloader-delay, 0s)}.e-page-transition--entered:not
+(.e-page-transition--preview){display:none}.e-page-transition--preview{animatio
+n-fill-mode:initial}.e-page-transition--preview.e-page-transition--entered 
+e-preloader,.e-page-transition--preview.e-page-transition--entered 
+.e-page-transition--preloader{opacity:var(--e-preloader-opacity, 
+1)}@media(prefers-reduced-motion: 
+reduce){e-page-transition{display:none}}@keyframes 
+e-page-transition-fade-in{from{opacity:0}to{opacity:1}}@keyframes 
+e-page-transition-fade-in-down{from{opacity:0;transform:translate3d(0, -100%, 
+0)}to{opacity:1;transform:none}}@keyframes 
+e-page-transition-fade-in-left{from{opacity:0;transform:translate3d(-100%, 0, 
+0)}to{opacity:1;transform:none}}@keyframes 
+e-page-transition-fade-in-right{from{opacity:0;transform:translate3d(100%, 0, 
+0)}to{opacity:1;transform:none}}@keyframes 
+e-page-transition-fade-in-up{from{opacity:0;transform:translate3d(0, 100%, 
+0)}to{opacity:1;transform:none}}@keyframes 
+e-page-transition-zoom-in{from{opacity:0;transform:scale3d(0.3, 0.3, 
+0.3)}50%{opacity:1}}@keyframes 
+e-page-transition-slide-in-down{from{transform:translate3d(0, -100%, 
+0);visibility:visible}to{transform:translate3d(0, 0, 0)}}@keyframes 
+e-page-transition-slide-in-left{from{transform:translate3d(-100%, 0, 
+0);visibility:visible}to{transform:translate3d(0, 0, 0)}}@keyframes 
+e-page-transition-slide-in-right{from{transform:translate3d(100%, 0, 
+0);visibility:visible}to{transform:translate3d(0, 0, 0)}}@keyframes 
+e-page-transition-slide-in-up{from{transform:translate3d(0, 100%, 
+0);visibility:visible}to{transform:translate3d(0, 0, 0)}}@keyframes 
+e-page-transition-fade-out{from{opacity:1}to{opacity:0}}@keyframes e-page-trans
+ition-fade-out-up{from{opacity:1;transform:none}to{opacity:0;transform:translat
+e3d(0, -100%, 0)}}@keyframes e-page-transition-fade-out-left{from{opacity:1;tra
+nsform:none}to{opacity:0;transform:translate3d(-100%, 0, 0)}}@keyframes e-page-
+transition-fade-out-right{from{opacity:1;transform:none}to{opacity:0;transform:
+translate3d(100%, 0, 0)}}@keyframes e-page-transition-fade-out-down{from{opacit
+y:1;transform:none}to{opacity:0;transform:translate3d(0, 100%, 0)}}@keyframes 
+e-page-transition-slide-out-up{from{transform:translate3d(0, 0, 
+0)}to{transform:translate3d(0, -100%, 0);visibility:visible}}@keyframes 
+e-page-transition-slide-out-left{from{transform:translate3d(0, 0, 
+0)}to{transform:translate3d(-100%, 0, 0);visibility:visible}}@keyframes 
+e-page-transition-slide-out-right{from{transform:translate3d(0, 0, 
+0)}to{transform:translate3d(100%, 0, 0);visibility:visible}}@keyframes 
+e-page-transition-slide-out-down{from{transform:translate3d(0, 0, 
+0)}to{transform:translate3d(0, 100%, 0);visibility:visible}}@keyframes 
+e-page-transition-zoom-out{from{opacity:1}50%{opacity:0;transform:scale3d(0.3, 
+0.3, 0.3)}}</style> </e-page-transition> <!-- Meta Pixel Code --> <noscript> 
+<img height="1" width="1" style="display:none" alt="fbpx"
+> Muestra Azure - Invitali.html:357:src="https://www.facebook.com/tr?id=9377498
+21491996&ev=PageView&noscript=1" /> </noscript> <!-- End Meta Pixel Code 
+--><div data-elementor-type="wp-page" data-elementor-id="41237" 
+class="elementor elementor-41237 elementor-motion-effects-parent" 
+data-elementor-post-type="page" bis_skin_checked="1"><div 
+class="elementor-element elementor-element-9e3a71e e-con-full e-flex e-con 
+e-parent" data-id="9e3a71e" data-element_type="container" 
+data-e-type="container" id="contenedor-a-ocultar" data-settings="{&quot;backgro
+und_background&quot;:&quot;classic&quot;,&quot;position&quot;:&quot;fixed&quot;
+}" bis_skin_checked="1" style="opacity: 0; display: none;"><div 
+class="elementor-element elementor-element-1a21fd5 e-con-full e-flex e-con 
+e-child" data-id="1a21fd5" data-element_type="container" 
+data-e-type="container" 
+data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-d198f6a 
+e-con-full e-flex e-con e-child" data-id="d198f6a" 
+data-element_type="container" data-e-type="container" 
+data-settings="{&quot;animation_mobile&quot;:&quot;fadeInUp&quot;}" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-8daca28 
+elementor-widget elementor-widget-spacer" data-id="8daca28" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="spacer.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-spacer" bis_skin_checked="1"><div 
+class="elementor-spacer-inner" 
+bis_skin_checked="1"></div></div></div></div><div class="elementor-element 
+elementor-element-135f9ed e-con-full e-flex e-con e-child" data-id="135f9ed" 
+data-element_type="container" data-e-type="container" 
+data-settings="{&quot;animation_mobile&quot;:&quot;fadeInUp&quot;}" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-a31a328 
+elementor-widget elementor-widget-spacer" data-id="a31a328" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="spacer.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-spacer" bis_skin_checked="1"><div 
+class="elementor-spacer-inner" 
+bis_skin_checked="1"></div></div></div></div><div class="elementor-element 
+elementor-element-2fff75f elementor-widget elementor-widget-image" 
+data-id="2fff75f" data-element_type="widget" data-e-type="widget" 
+data-widget_type="image.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"> <img 
+fetchpriority="high" decoding="async" width="716" height="682" src="./Muestra 
+Azure - Invitali_files/Recurso-1logo-laura-y-mateo.svg" data-src="https://invit
+ali.com/wp-content/uploads/2025/06/Recurso-1logo-laura-y-mateo.svg" 
+class="attachment-large size-large wp-image-41727 lazyloaded" 
+alt=""><noscript><img decoding="async" width="716" height="682" src="https://in
+vitali.com/wp-content/uploads/2025/06/Recurso-1logo-laura-y-mateo.svg" 
+class="attachment-large size-large wp-image-41727 lazyload" alt="" 
+/></noscript></div></div><div class="elementor-element 
+elementor-element-582bfb6 elementor-widget-mobile__width-inherit 
+elementor-widget elementor-widget-text-editor" data-id="582bfb6" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="text-editor.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+id="comp-luetk4fh3" class="HcOXKn c9GqVL QxJLC3 comp-luetk4fh3 
+wixui-rich-text" style="text-align: center;" data-testid="richTextElement" 
+bis_skin_checked="1">Lorena &amp; Marcos</div></div></div><div 
+class="elementor-element elementor-element-cf14289 elementor-widget 
+elementor-widget-text-editor animated fadeInUp" data-id="cf14289" 
+data-element_type="widget" data-e-type="widget" 
+data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" 
+data-widget_type="text-editor.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><p>Julio&nbsp; 
+04&nbsp; 2026</p></div></div><div class="elementor-element 
+elementor-element-da2ca47 elementor-widget elementor-widget-html" 
+data-id="da2ca47" data-element_type="widget" data-e-type="widget" 
+data-widget_type="html.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"> <meta name="viewport" 
+content="width=device-width, initial-scale=1.0"><title>Ocultar y Reproducir 
+Canción</title> <style> /* Estilos para el contenedor */
+  Muestra Azure - Invitali.html:358: #contenedor-a-ocultar {
+  Muestra Azure - Invitali.html:359: opacity: 1;
+  Muestra Azure - Invitali.html:360: transition: opacity 2s ease-out;
+  Muestra Azure - Invitali.html:403: contenedor.style.display = 'none';
+  Muestra Azure - Invitali.html:404: }, 2000); // Esperar a que la transición 
+termine antes de ocultar el contenedor
+  Muestra Azure - Invitali.html:405: });
+> Muestra Azure - Invitali.html:406: }); </script></div></div><div 
+class="elementor-element elementor-element-732652b elementor-view-default 
+elementor-widget elementor-widget-icon" data-id="732652b" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="icon.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-icon-wrapper" bis_skin_checked="1"><div 
+class="elementor-icon" bis_skin_checked="1"> <svg aria-hidden="true" 
+class="e-font-icon-svg e-fas-angle-double-down" viewBox="0 0 320 512" 
+xmlns="http://www.w3.org/2000/svg"><path d="M143 256.3L7 
+120.3c-9.4-9.4-9.4-24.6 0-33.9l22.6-22.6c9.4-9.4 24.6-9.4 33.9 0l96.4 96.4 
+96.4-96.4c9.4-9.4 24.6-9.4 33.9 0L313 86.3c9.4 9.4 9.4 24.6 0 33.9l-136 
+136c-9.4 9.5-24.6 9.5-34 .1zm34 192l136-136c9.4-9.4 9.4-24.6 
+0-33.9l-22.6-22.6c-9.4-9.4-24.6-9.4-33.9 0L160 
+352.1l-96.4-96.4c-9.4-9.4-24.6-9.4-33.9 0L7 278.3c-9.4 9.4-9.4 24.6 0 33.9l136 
+136c9.4 9.5 24.6 9.5 34 .1z"></path></svg></div></div></div></div><div 
+class="elementor-element elementor-element-cc1276c elementor-align-center 
+elementor-mobile-align-center elementor-widget elementor-widget-button" 
+data-id="cc1276c" data-element_type="widget" data-e-type="widget" 
+data-settings="{&quot;_animation_mobile&quot;:&quot;fadeInUp&quot;}" 
+data-widget_type="button.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-button-wrapper" bis_skin_checked="1"> <a 
+class="elementor-button elementor-button-link elementor-size-sm" href="https://
+invitali.com/azure/?n=2%20pases&amp;m=Luz%20y%20Cristian#cabecera" 
+id="boton-ocultar" bis_skin_checked="1"> <span 
+class="elementor-button-content-wrapper"> <span 
+class="elementor-button-text">Ingresar a mi invitación</span> </span> 
+</a></div></div></div></div></div></div></div><div class="elementor-element 
+elementor-element-4d38058 e-flex e-con-boxed e-con e-parent 
+elementor-motion-effects-element 
+elementor-motion-effects-element-type-background" data-id="4d38058" 
+data-element_type="container" data-e-type="container" data-settings="{&quot;bac
+kground_background&quot;:&quot;classic&quot;,&quot;background_motion_fx_motion_
+fx_scrolling&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_effect
+&quot;:&quot;yes&quot;,&quot;background_motion_fx_translateY_speed&quot;:{&quot
+;unit&quot;:&quot;px&quot;,&quot;size&quot;:7.400000000000000355271367880050092
+9355621337890625,&quot;sizes&quot;:[]},&quot;position&quot;:&quot;fixed&quot;,&
+quot;background_motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quo
+t;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,
+&quot;end&quot;:100}},&quot;background_motion_fx_devices&quot;:[&quot;desktop&q
+uot;,&quot;tablet&quot;,&quot;mobile&quot;]}" 
+style="--e-transform-transition-duration: 100ms;" bis_skin_checked="1"><div 
+class="elementor-motion-effects-container" bis_skin_checked="1"><div 
+class="elementor-motion-effects-layer" style="width: 100%; height: 174%; 
+--translateY: -77.96155999999999px; transform: translateY(var(--translateY));" 
+bis_skin_checked="1"></div></div><div class="e-con-inner" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-d9165ec 
+elementor-widget elementor-widget-menu-anchor" data-id="d9165ec" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="menu-anchor.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-menu-anchor" id="cabecera" 
+bis_skin_checked="1"></div></div></div></div></div><div 
+class="elementor-element elementor-element-884db54 e-con-full e-flex e-con 
+e-parent" data-id="884db54" data-element_type="container" 
+data-e-type="container" 
+data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-99448a4 
+e-flex e-con-boxed e-con e-child" data-id="99448a4" 
+data-element_type="container" data-e-type="container" 
+data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}" 
+bis_skin_checked="1"><div class="e-con-inner" bis_skin_checked="1"><div 
+class="elementor-element elementor-element-e0682d1 e-con-full e-flex e-con 
+e-child" data-id="e0682d1" data-element_type="container" 
+data-e-type="container" 
+data-settings="{&quot;background_background&quot;:&quot;classic&quot;}" 
+bis_skin_checked="1"><div class="elementor-element elementor-element-036a2b9 
+elementor-widget elementor-widget-spacer" data-id="036a2b9" 
+data-element_type="widget" data-e-type="widget" 
+data-widget_type="spacer.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-spacer" bis_skin_checked="1"><div 
+class="elementor-spacer-inner" 
+bis_skin_checked="1"></div></div></div></div><div class="elementor-element 
+elementor-element-d81a547 e-con-full e-flex e-con e-child" data-id="d81a547" 
+data-element_type="container" data-e-type="container" data-settings="{&quot;bac
+kground_background&quot;:&quot;classic&quot;,&quot;animation_mobile&quot;:&quot
+;fadeInUp&quot;}" bis_skin_checked="1"><div class="elementor-element 
+elementor-element-22175df elementor-widget elementor-widget-spacer" 
+data-id="22175df" data-element_type="widget" data-e-type="widget" 
+data-widget_type="spacer.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+class="elementor-spacer" bis_skin_checked="1"><div 
+class="elementor-spacer-inner" 
+bis_skin_checked="1"></div></div></div></div><div class="elementor-element 
+elementor-element-4d50116 elementor-widget elementor-widget-heading" 
+data-id="4d50116" data-element_type="widget" data-e-type="widget" 
+data-widget_type="heading.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><h2 
+class="elementor-heading-title 
+elementor-size-default">Lorena</h2></div></div><div class="elementor-element 
+elementor-element-462e185 elementor-widget elementor-widget-heading" 
+data-id="462e185" data-element_type="widget" data-e-type="widget" 
+data-widget_type="heading.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><h2 
+class="elementor-heading-title 
+elementor-size-default">&amp;</h2></div></div><div class="elementor-element 
+elementor-element-d683edb elementor-widget elementor-widget-heading" 
+data-id="d683edb" data-element_type="widget" data-e-type="widget" 
+data-widget_type="heading.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><h2 
+class="elementor-heading-title 
+elementor-size-default">Marcos</h2></div></div></div><div 
+class="elementor-element elementor-element-ef7660f 
+elementor-widget-mobile__width-initial elementor-widget 
+elementor-widget-text-editor animated fadeInUp" data-id="ef7660f" 
+data-element_type="widget" data-e-type="widget" 
+data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" 
+data-widget_type="text-editor.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"><div 
+id="comp-luetk4fh3" class="HcOXKn c9GqVL QxJLC3 comp-luetk4fh3 
+wixui-rich-text" style="text-align: center;" data-testid="richTextElement" 
+bis_skin_checked="1">Nos llena el corazón de gran alegría, poder compartir con 
+ustedes este momento tan especial, y tener el honor de invitarte a celebrar 
+con nosotros nuestro matrimonio.</div></div></div></div></div></div><div 
+class="elementor-element elementor-element-fbf90b7 elementor-widget 
+elementor-widget-html" data-id="fbf90b7" data-element_type="widget" 
+data-e-type="widget" data-widget_type="html.default" bis_skin_checked="1"><div 
+class="elementor-widget-container" bis_skin_checked="1"> <!-- CONTENEDOR 
+--><div class="dandelion-container" bis_skin_checked="1"><div class="seed" 
+bis_skin_checked="1" style="--size: 13.307203480948164px; --dx: 
+-65.80893802766849px; --dy: -162.0817719899228px; --duration: 
+11.22686588154448s; --delay: 0s; --rotation: 249.29707489996161deg; --sway: 
+-18.934173297466774px; top: 46.5393%; left: 37.7679%;"></div><div class="seed" 
+bis_skin_checked="1" style="--size: 19.862921756444226px; --dx: 
+84.78601847884417px; --dy: -164.94772635533846px; --duration: 
+9.555730958102572s; --delay: 0s; --rotation: 331.82225222121195deg; --sway: 
+-7.367174941696009px; top: 27.9808%; left: 40.5438%;"></div><div class="seed" 
+bis_skin_checked="1" style="--size: 27.520653046217337px; --dx: 
+-2.8832855659199055px; --dy: -465.75903161486514px; --duration: 
+9.751298114409149s; --delay: 0s; --rotation: 11.290317851943708deg; --sway: 
+-11.747809334433619px; top: 64.914%; left: 25.1969%;"></div><div class="seed" 
+bis_skin_checked="1" style="--size: 47.75646903884939px; --dx: 
+-83.22579470814622px; --dy: -372.7164175815723px; --duration: 
+10.421894867728277s; --delay: 0s; --rotation: 250.19195011750278deg; --sway: 
+17.49284732623041px; top: 25.7735%; left: 32.9191%;"></div><div class="seed" 
+bis_skin_checked="1" style="--size: 36.55564855096944px; --dx: 
+64.024161236698px; --dy: -259.5725984308443px; --duration: 9.012050935968945s; 
+--delay: 0s; --rotation: 25.86930267852853deg; --sway: 19.078983379918178px; 
+top: 33.863%; left: 17.4783%;"></div></div> <!-- ESTILOS --> <style> 
+.dandelion-container {
+  Muestra Azure - Invitali.html:407: position: fixed !important;
+  Muestra Azure - Invitali.html:408: inset: 0;
+  Muestra Azure - Invitali.html:409: pointer-events: none;
+  Muestra Azure - Invitali.html:486: margin: 0px auto;
+  Muestra Azure - Invitali.html:487: font-size: 14px;
+  Muestra Azure - Invitali.html:488: color: #FFFFFF;
+> Muestra Azure - Invitali.html:489:" bis_skin_checked="1"><p 
+style="font-weight:bold; font-size:18px;">BANCOLOMBIA</p> <span 
+id="cuenta-num1" style="color:#FFFFFF;">498 -4432324355</span> <i 
+class="fa-regular fa-copy" onclick="copiarTexto(event, &#39;cuenta-num1&#39;)" 
+title="Copiar número de cuenta" style="cursor:pointer; margin-left:10px; 
+color:#FFFFFF;"></i><p> <strong>cc:</strong> <span id="cci-num2" 
+style="color:#FFFFFF;">652342346667</span> <i class="fa-regular fa-copy" 
+onclick="copiarTexto(event, &#39;cci-num2&#39;)" title="Copiar CCI" 
+style="cursor:pointer; margin-left:10px; 
+color:#FFFFFF;"></i></p><p><strong>Lorena Marcela R.</strong></p></div> 
+<script> function copiarTexto(e, idElemento) {
+  Muestra Azure - Invitali.html:490: const texto = 
+document.getElementById(idElemento).innerText;
+  Muestra Azure - Invitali.html:491: navigator.clipboard.writeText(texto)
+  Muestra Azure - Invitali.html:492: .then(() => {
+
+
